@@ -7,7 +7,8 @@ Private, offline AI running on my laptop (LLaVA 1.6 Mistral 7b in LM Studio).
 - Zero data leaves my machine  
 
 Demo video (1 minute):  
-[Watch the demo]([YOUR_LOOM_LINK_HERE](https://www.loom.com/share/5ec8d0f6e92f4f01a7cd1d975181bd10))
+[Watch the demo](https://www.loom.com/share/5ec8d0f6e92f4f01a7cd1d975181bd10)
+
 
 
 ## Screenshots
